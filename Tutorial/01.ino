@@ -1,3 +1,4 @@
+// 定期的にLEDが光るプログラム
 void setup() {
   // put your setup code here, to run once:
   pinMode(7, OUTPUT);

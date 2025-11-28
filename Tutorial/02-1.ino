@@ -1,3 +1,4 @@
+// ボタンを押している間だけLEDが光るプログラム
 void setup() {
   pinMode(3, INPUT);
   pinMode(7, OUTPUT);
